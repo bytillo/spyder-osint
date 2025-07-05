@@ -25,13 +25,13 @@
 
 # Installation🍃(WINDOWS)
 ```shell
-git clone https://github.com/tyreme/spyder-osint
+git clone https://github.com/bytillo/spyder-osint
 cd spyder-osint
 run.bat
 ```
 **OR**
 ```shell
-git clone https://github.com/tyreme/spyder-osint
+git clone https://github.com/bytillo/spyder-osint
 cd spyder-osint
 pip install -r requirements.txt
 python spyder.py
@@ -39,7 +39,7 @@ python spyder.py
 # Installation🍃(LINUX)
 ```shell
 sudo apt install python3 python3-pip -y
-git clone https://github.com/tyreme/spyder-osint
+git clone https://github.com/bytillo/spyder-osint
 cd spyder-osint
 pip3 install -r requirements.txt
 chmod +x run.sh
